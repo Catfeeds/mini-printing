@@ -1,0 +1,112 @@
+'2018-08-07 09:59:15'
+array (
+  'return_code' => 'SUCCESS',
+  'return_msg' => 'OK',
+  'appid' => 'wx5a0ed8bf43bfc863',
+  'mch_id' => '1510805771',
+  'nonce_str' => 'HzdL3Qm35Ke8Lao2',
+  'sign' => '9B668DB3BD516B78050E492EAA3C302E',
+  'result_code' => 'SUCCESS',
+  'prepay_id' => 'wx070959149978991d45e494a93020321977',
+  'trade_type' => 'APP',
+)
+================================
+'2018-08-07 14:20:40'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx071420406170411d45e494a92077806323',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'Z1FNwFFKjKCAKsGc',
+  'timeStamp' => '1533622840',
+  'sign' => 'B830B38CA406428F198E6493A60171E3',
+)
+================================
+'2018-08-07 17:32:46'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx07173246840692bb8d396ff80128212800',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => '5oFrGla3KOFPrqDV',
+  'timeStamp' => '1533634366',
+  'sign' => '48AE6D73FD52E3997F642149532025CA',
+)
+================================
+'2018-08-07 17:32:52'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx07173252666901bb8d396ff80609507616',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'k9zkRtJA0nbejqHU',
+  'timeStamp' => '1533634372',
+  'sign' => '8DA7AFD4509C2C48FFCDA389768D4C46',
+)
+================================
+'2018-08-07 17:33:07'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx07173307905980bb8d396ff82035539857',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'nbNlUH4D9ptWJdn8',
+  'timeStamp' => '1533634387',
+  'sign' => '21EE0F105635E2D09F260C4F0F7E225E',
+)
+================================
+'2018-08-07 17:59:17'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx07175917589030e838a676d03802912331',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'hQY8GPw2jwjpdv8o',
+  'timeStamp' => '1533635957',
+  'sign' => '538D69CCABECED540403CF6DFB96408F',
+)
+================================
+'2018-08-07 18:08:17'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx0718081718883234b132f6ea3400234633',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'Tki2Bm1QVBajMaCi',
+  'timeStamp' => '1533636497',
+  'sign' => '1033EB8D93A7EED86A1A63CB1B9F6433',
+)
+================================
+'2018-08-07 18:10:15'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx07181015009995d19486c4810945417882',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'D5mEr4oyLcXjwppv',
+  'timeStamp' => '1533636615',
+  'sign' => '1185B79E04F6072E061232CA5378EB00',
+)
+================================
+'2018-08-07 18:15:17'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx0718151717261249726af0a82326924879',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => 'Vb3Ybie7yXJ9dXLm',
+  'timeStamp' => '1533636917',
+  'sign' => '831E1CE9A63260151391DCF1DE378CAC',
+)
+================================
+'2018-08-07 18:23:53'
+array (
+  'appId' => 'wx5a0ed8bf43bfc863',
+  'partnerid' => '1510805771',
+  'prepayid' => 'wx0718235314183704fcf464c22843947100',
+  'package' => 'Sign=WXPay',
+  'nonceStr' => '3FFJ683ckRX546T6',
+  'timeStamp' => '1533637433',
+  'sign' => 'C0CEF40E7D08A79BEB16854917BFDF97',
+)
+================================

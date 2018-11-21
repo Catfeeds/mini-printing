@@ -1,0 +1,35 @@
+{
+    "name": "tanmo/laravel-wechat",
+    "description": "A laravel wechat sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tanmo",
+            "email": "410536770@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "ext-fileinfo": "*",
+        "ext-openssl": "*",
+        "ext-simplexml": "*",
+        "ixudra/curl": "^6.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tanmo\\Wechat\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tanmo\\Wechat\\WechatServiceProvider"
+            ]
+        }
+    }
+}
